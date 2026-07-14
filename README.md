@@ -1,12 +1,4 @@
-# TRACLE - The open video platform
-TRACLE is a free and open source video platform.
-
-This repository contains the source code for the website.
-
-# Contributing
-Feel free to fork and make a pull request for small changes. If you're planning to change more than a couple of lines it's probably better to open an issue first.
-
-Join our [discord server](https://discord.gg/gKatcJ8)
+# I forked Tracle. For the OFFICIAL Tracle source, TeamTracle/Tracle on Github is probably it.
 
 # Installation (for development)
 ## Using Docker (**recommended**)
